@@ -1,6 +1,3 @@
-[submodule "themes/ananke"]
-	path = themes/ananke
-	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
-[submodule "themes/ava"]
-	path = themes/ava
-	url = https://github.com/jmau111/hugo-theme-ava
+[submodule "themes/DroleDeVelo"]
+	path = themes/DroleDeVelo
+	url = https://github.com/europrimus/droledevelo.fr_hugoTheme

@@ -1,0 +1,6 @@
+---
+title: Les idées
+afterTitle: et plein d'autre à venir ...
+---
+
+Beaucoups de choses étudier, développer, ...
