@@ -3,6 +3,9 @@ languageCode = 'fr-fr'
 title = 'Drôle de vélo'
 theme = "DroleDeVelo"
 
+[params]
+  githubURL = "https://github.com/europrimus/droledevelo.fr"
+
 [params.author]
     name = "Didier COURTY"
     email = "bonjour@droledevelo.fr"
