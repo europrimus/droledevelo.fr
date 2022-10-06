@@ -9,3 +9,6 @@ theme = "DroleDeVelo"
 [params.author]
     name = "Didier COURTY"
     email = "bonjour@droledevelo.fr"
+
+[params.logo]
+  favicon = "/img/icon.png"
