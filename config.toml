@@ -2,3 +2,7 @@ baseURL = 'https://droledevelo.fr/'
 languageCode = 'fr-fr'
 title = 'Drôle de vélo'
 theme = "DroleDeVelo"
+
+[params.author]
+    name = "Didier COURTY"
+    email = "bonjour@droledevelo.fr"
