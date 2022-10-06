@@ -12,3 +12,4 @@ theme = "DroleDeVelo"
 
 [params.logo]
   favicon = "/img/icon.png"
+  logo = "/img/droledevelo.png"
