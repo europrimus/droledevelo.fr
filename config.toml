@@ -2,6 +2,7 @@ baseURL = 'https://droledevelo.fr/'
 languageCode = 'fr-fr'
 title = 'Drôle de vélo'
 theme = "DroleDeVelo"
+enableGitInfo = true
 
 [params]
   githubURL = "https://github.com/europrimus/droledevelo.fr"
