@@ -1,0 +1,9 @@
+#!/bin/sh
+# see https://gohugo.io/hosting-and-deployment/deployment-with-rsync/#copy-your-ssh-key-to-your-host
+
+HOST="myserver.tld"
+DIR="~/www/droledevelo/droledevelo.fr"
+
+hugo && rsync -avz --delete public/ ${HOST}:${DIR}
+
+exit 0
