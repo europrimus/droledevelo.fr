@@ -1,6 +1,6 @@
 ---
 title: A propos
-draft: true
+draft: false
 ---
 
 La plus part des sites internet et aménagements cyclables ne tiennes pas compte de cette diversitées.  
