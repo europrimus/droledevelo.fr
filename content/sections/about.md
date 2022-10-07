@@ -1,11 +1,14 @@
 ---
 title: A propos
-images : 
-  - 
-    "url" : "img/Velo_Cargo_Wikimedia.jpg"
-    "credit" : "Aeroceanaute, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons"
-
 draft: true
 ---
 
-Outils autour des drôles de vélos (vélomobile, tricycle, vélo couché, vélo cargo, tamdem... )
+La plus part des sites internet et aménagements cyclables ne tiennes pas compte de cette diversitées.  
+
+
+**Drôle de vélo** à pour but de tenir compte de cette diversitée et de proposer un ensembles de site internet adapté.  
+
+
+Le but est de promouvoir le vélo, en facilitant la vie des utilisateurs.  
+Parce que le mleilleur vélo est celui qui rend heureux.  
+Et comme on est tous différents, on à tous besoin d'un vélo différent.  
