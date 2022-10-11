@@ -6,4 +6,4 @@ links :
   "internal" : "/accident"
 ---
 
-statistique d'accidents / casse mécanique
+Statistique d'accidents / casse mécanique

@@ -9,5 +9,5 @@ links :
 
 Calculatrice de transmissions
 
-## A venir
+## À venir
 Estimation de consommation en wh

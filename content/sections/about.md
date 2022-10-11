@@ -1,14 +1,14 @@
 ---
-title: A propos
+title: À propos
 draft: false
 ---
 
-La plus part des sites internet et aménagements cyclables ne tiennes pas compte de cette diversitées.  
+La plupart des sites internet et aménagements cyclables ne tiennent pas compte de cette diversité 
 
 
-**Drôle de vélo** à pour but de tenir compte de cette diversitée et de proposer un ensembles de site internet adapté.  
+**Drôle de vélo** a pour but de tenir compte de cette diversité et de proposer un ensemble de site internet adapté.  
 
 
 Le but est de promouvoir le vélo, en facilitant la vie des utilisateurs.  
-Parce que le mleilleur vélo est celui qui rend heureux.  
-Et comme on est tous différents, on à tous besoin d'un vélo différent.  
+Parce que le meilleur vélo est celui qui rend heureux.  
+Et comme on est tous différents, on a tous besoins d'un vélo différent.  

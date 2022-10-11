@@ -1,5 +1,5 @@
 ---
-title: carte d’accessibilité des équipements cyclable
+title: carte d’accessibilité des équipements cyclables
 weight: 1
 icon: icon1.svg
 links :
@@ -7,8 +7,8 @@ links :
   "external" : "https://accessibilite.droledevelo.fr/"
 ---
 
-Il existe de plus en plus de **pistes cyclables, voies vertes** et autre aménagements cyclables.
-Mais, souvent, pour assurer la sécuritée des utilisateurs en empêchant l'accès aux voitures et autres véhicules motorisé, **l'accès à ces aménagements est parfois compliqué**: chicanes, barrières, tourniquets, écluses, poteaux, ...
+Il existe de plus en plus de **pistes cyclables, voies vertes** et autres aménagements cyclables.
+Mais, souvent, pour assurer la sécurité des utilisateurs en empêchant l'accès aux voitures et autres véhicules motorisé, **l'accès à ces aménagements est parfois compliqué**: chicanes, barrières, tourniquets, écluses, poteaux, ...
 
 Le but du projet est de **cartographier ces points singuliers qui peuvent poser problèmes**, mais aussi les aménagements qui vont bien.
 
