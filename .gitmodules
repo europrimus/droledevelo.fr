@@ -1,3 +1,6 @@
 [submodule "themes/DroleDeVelo"]
 	path = themes/DroleDeVelo
 	url = https://github.com/europrimus/droledevelo.fr_hugoTheme
+[submodule "static/php"]
+	path = static/php
+	url = git@framagit.org:Europrimus/sendmail.php.git

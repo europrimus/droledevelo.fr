@@ -6,6 +6,10 @@ enableGitInfo = true
 
 [params]
   githubURL = "https://github.com/europrimus/droledevelo.fr"
+[params.contactForm]
+  action = "php/sendmail.php"
+  emailTo = "bonjour@droledevelo.fr"
+
 
 [params.author]
     name = "Didier COURTY"
